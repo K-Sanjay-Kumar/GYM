@@ -244,7 +244,6 @@
     <footer class="rbt-footer footer-style-1">
         <div class="footer-top">
 
-            <!-- Start CallTo Action Area -->
             <div class="rbt-call-to-action-area bg-color-extra2 ptb--30 ptb_md--20 ptb_sm--20">
                 <div class="wrapper">
                     <div class="container">
@@ -281,7 +280,6 @@
                     </div>
                 </div>
             </div>
-            <!-- End CallTo Action Area -->
 
         </div>
     </footer>

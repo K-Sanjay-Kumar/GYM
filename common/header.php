@@ -90,20 +90,20 @@
                                     </ul>
                                 </div>
 
-                                   <div class="rbt-separator d-none d-xl-block"></div>
-                                   <div class="header-info">
-    <ul class="rbt-dropdown-menu">
-        <li>
-            <a href="www.google.com" class="login-button">
-                <span class="menu-item">Login</span>
-            </a>
-        </li>
-    </ul>
-     </div>
+                                <div class="rbt-separator d-none d-xl-block"></div>
+                                <div class="header-info">
+                                    <ul class="rbt-dropdown-menu">
+                                        <li>
+                                            <a href="www.google.com" class="login-button">
+                                                <span class="menu-item">Login</span>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
 
 
 
-                                
+
                             </div>
                         </div>
                     </div>
@@ -132,12 +132,12 @@
                     <div class="rbt-main-navigation d-none d-xl-block">
                         <nav class="mainmenu-nav">
                             <ul class="mainmenu">
-                                <li >
+                                <li>
                                     <a href="/">Home</a>
                                     <!-- Start Mega Menu  -->
                                     <!-- End Mega Menu  -->
                                 </li>
-                               
+
 
                                 <li class="has-dropdown has-menu-child-item">
                                     <a href="#">About Us
@@ -145,39 +145,55 @@
                                     </a>
                                     <ul class="submenu">
                                         <li class="has-dropdown"><a href="/aboutus/overview">Over view</a>
-                                        </li><li class="has-dropdown"><a href="/aboutus/chairman_message">Chairman message</a>
-                                        </li><li class="has-dropdown"><a href="/aboutus/principal_message">Principal message</a>
-                                        </li><li class="has-dropdown"><a href="/aboutus/management_committee">School Management Committee </a>
-                                        </li><li class="has-dropdown"><a href="/aboutus/child_safety_committee">Child Protection Council</a>
-                                        </li><li class="has-dropdown"><a href="/aboutus/staff_profile">Staff profile</a>
-                                        </li><li class="has-dropdown"><a href="/aboutus/staff_training">Staff training</a>
-                                        </li><li class="has-dropdown"><a href="/aboutus/parent_teacher_association">Parent teacher association</a>
-                                        </li><li class="has-dropdown"><a href="/aboutus/testimonial">Testimonials</a>
-                                        </li><li class="has-dropdown"><a href="/aboutus/mandatory_disclosure">Mandatory disclosure</a>
+                                        </li>
+                                        <li class="has-dropdown"><a href="/aboutus/chairman_message">Chairman message</a>
+                                        </li>
+                                        <li class="has-dropdown"><a href="/aboutus/principal_message">Principal message</a>
+                                        </li>
+                                        <li class="has-dropdown"><a href="/aboutus/management_committee">School Management Committee </a>
+                                        </li>
+                                        <li class="has-dropdown"><a href="/aboutus/child_safety_committee">Child Protection Council</a>
+                                        </li>
+                                        <li class="has-dropdown"><a href="/aboutus/staff_profile">Staff profile</a>
+                                        </li>
+                                        <li class="has-dropdown"><a href="/aboutus/staff_training">Staff training</a>
+                                        </li>
+                                        <li class="has-dropdown"><a href="/aboutus/parent_teacher_association">Parent teacher association</a>
+                                        </li>
+                                        <li class="has-dropdown"><a href="/aboutus/testimonial">Testimonials</a>
+                                        </li>
+                                        <li class="has-dropdown"><a href="/aboutus/mandatory_disclosure">Mandatory disclosure</a>
                                         </li>
                                     </ul>
                                 </li>
-        
+
                                 <li class="has-dropdown has-menu-child-item">
                                     <a href="#">Academics
                                         <i class="feather-chevron-down"></i>
                                     </a>
                                     <ul class="submenu">
                                         <li class="has-dropdown"><a href="/Academics/prospectus">Prospectus</a>
-                                        </li><li class="has-dropdown"><a href="#">Programmes <i class="feather-chevron-right"></i></a>
+                                        </li>
+                                        <li class="has-dropdown"><a href="#">Programmes <i class="feather-chevron-right"></i></a>
                                             <ul class="submenu">
                                                 <li><a href="/Academics/foundation-stage">Foundation Stage</a></li>
                                                 <li><a href="/Academics/primary-stage">Primary Stage</a></li>
                                                 <li><a href="/Academics/middle-stage">Middle Stage</a></li>
                                                 <li><a href="/Academics/secondary-stage">Secondary Stage</a></li>
                                             </ul>
-                                        </li><li class="has-dropdown"><a href="/Academics/pedagogies">Pedagogies</a>
-                                        </li><li class="has-dropdown"><a href="/Academics/board-results">Board results</a>
-                                        </li><li class="has-dropdown"><a href="/Academics/Textbookdeclaration.pdf">TextBook Declaration</a>
-                                        </li><li class="has-dropdown"><a href="/Academics/booklists">Book Lists</a>
-                                        <!-- </li><li class="has-dropdown"><a href="/Academics/scholarship">Scholarship</a> -->
-                                        </li><li class="has-dropdown"><a href="/Academics/cca">CCA</a>
-                                        </li><li class="has-dropdown"><a href="/Academics/life-skills">Life Skills</a>
+                                        </li>
+                                        <li class="has-dropdown"><a href="/Academics/pedagogies">Pedagogies</a>
+                                        </li>
+                                        <li class="has-dropdown"><a href="/Academics/board-results">Board results</a>
+                                        </li>
+                                        <li class="has-dropdown"><a href="/Academics/Textbookdeclaration.pdf">TextBook Declaration</a>
+                                        </li>
+                                        <li class="has-dropdown"><a href="/Academics/booklists">Book Lists</a>
+                                            <!-- </li><li class="has-dropdown"><a href="/Academics/scholarship">Scholarship</a> -->
+                                        </li>
+                                        <li class="has-dropdown"><a href="/Academics/cca">CCA</a>
+                                        </li>
+                                        <li class="has-dropdown"><a href="/Academics/life-skills">Life Skills</a>
                                     </ul>
                                 </li>
 
@@ -187,9 +203,12 @@
                                     </a>
                                     <ul class="submenu">
                                         <li class="has-dropdown"><a href="/Admissions/How_To_Apply">How To Apply</a>
-                                        </li><li class="has-dropdown"><a href="/Admissions/Age_criteria">Age Criteria</a>
-                                        </li><li class="has-dropdown"><a href="/Admissions/Application_Form">Application Form</a>
-                                        </li><li class="has-dropdown"><a href="/Admissions/Highlights_Of_Nep_2020">Highlights Of Nep 2020</a>
+                                        </li>
+                                        <li class="has-dropdown"><a href="/Admissions/Age_criteria">Age Criteria</a>
+                                        </li>
+                                        <li class="has-dropdown"><a href="/Admissions/Application_Form">Application Form</a>
+                                        </li>
+                                        <li class="has-dropdown"><a href="/Admissions/Highlights_Of_Nep_2020">Highlights Of Nep 2020</a>
                                     </ul>
                                 </li>
 
@@ -198,15 +217,23 @@
                                         <i class="feather-chevron-down"></i>
                                     </a>
                                     <ul class="submenu">
-                                    <li class="has-dropdown"><a href="#">Gallery</a>
-                                    </li><li class="has-dropdown"><a href="/infrastructure/Indoor_Facility">Indoor Facility</a>
-                                        </li><li class="has-dropdown"><a href="/infrastructure/Outdoor_Facility">Outdoor Facility</a>
-                                        </li><li class="has-dropdown"><a href="/infrastructure/Health_Care">Health Care</a>
-                                        </li><li class="has-dropdown"><a href="/infrastructure/Resource_Center">Resource Centre</a>
-                                        </li><li class="has-dropdown"><a href="/infrastructure/ATL">ATL</a>
-                                        </li><li class="has-dropdown"><a href="/infrastructure/Robotics">Robotics</a>
-                                        </li><li class="has-dropdown"><a href="/infrastructure/Seminar_Hall">Thermoregulated Seminar Hall</a>
-                                        </li><li class="has-dropdown"><a href="/infrastructure/Laboratories">Laboratories</a>
+                                        <li class="has-dropdown"><a href="#">Gallery</a>
+                                        </li>
+                                        <li class="has-dropdown"><a href="/infrastructure/Indoor_Facility">Indoor Facility</a>
+                                        </li>
+                                        <li class="has-dropdown"><a href="/infrastructure/Outdoor_Facility">Outdoor Facility</a>
+                                        </li>
+                                        <li class="has-dropdown"><a href="/infrastructure/Health_Care">Health Care</a>
+                                        </li>
+                                        <li class="has-dropdown"><a href="/infrastructure/Resource_Center">Resource Centre</a>
+                                        </li>
+                                        <li class="has-dropdown"><a href="/infrastructure/ATL">ATL</a>
+                                        </li>
+                                        <li class="has-dropdown"><a href="/infrastructure/Robotics">Robotics</a>
+                                        </li>
+                                        <li class="has-dropdown"><a href="/infrastructure/Seminar_Hall">Thermoregulated Seminar Hall</a>
+                                        </li>
+                                        <li class="has-dropdown"><a href="/infrastructure/Laboratories">Laboratories</a>
                                     </ul>
                                 </li>
 
@@ -214,62 +241,71 @@
                                     <a href="#">Achievements
                                         <i class="feather-chevron-down"></i>
                                     </a>
-                                    
+
                                     <ul class="submenu" style="padding-top: 0px;padding-bottom: 0px;background-color: transparent;">
-                                     <div class="nav-category-item">
-                                      <div class="thumbnail">
-                                         <div class="image"><img src="../assets/images/header/Awards.png" alt="Course image"></div>
-                                            <a href="/Achievements/awards">
-                                                <span>Awards</span>
+                                        <div class="nav-category-item">
+                                            <div class="thumbnail">
+                                                <div class="image"><img src="../assets/images/header/Awards.png" alt="Course image"></div>
+                                                <a href="/Achievements/awards">
+                                                    <span>Awards</span>
                                                     <i class="feather-chevron-right"></i>
-                                            </a>
+                                                </a>
+                                            </div>
                                         </div>
-                                     </div>
-                                    <div class="nav-category-item">
-                                     <div class="thumbnail">
-                                         <div class="image"><img src="../assets/images/header/Scholastic.png" alt="Course image"></div>
-                                            <a href="/Achievements/scholastic-achievements">
-                                                <span>Scholastic<br>Achievements</span>
+                                        <div class="nav-category-item">
+                                            <div class="thumbnail">
+                                                <div class="image"><img src="../assets/images/header/Scholastic.png" alt="Course image"></div>
+                                                <a href="/Achievements/scholastic-achievements">
+                                                    <span>Scholastic<br>Achievements</span>
                                                     <i class="feather-chevron-right"></i>
-                                            </a>
+                                                </a>
+                                            </div>
                                         </div>
-                                    </div>
-                                    <div class="nav-category-item">
-                                     <div class="thumbnail">
-                                         <div class="image"><img src="../assets/images/header/Co_Scholastic.png" alt="Course image"></div>
-                                            <a href="/Achievements/csa">
-                                                <span>Co Scholastic<br>Achievements</span>
+                                        <div class="nav-category-item">
+                                            <div class="thumbnail">
+                                                <div class="image"><img src="../assets/images/header/Co_Scholastic.png" alt="Course image"></div>
+                                                <a href="/Achievements/csa">
+                                                    <span>Co Scholastic<br>Achievements</span>
                                                     <i class="feather-chevron-right"></i>
-                                            </a>
+                                                </a>
+                                            </div>
                                         </div>
-                                    </div>
-                                    <div class="nav-category-item">
-                                     <div class="thumbnail">
-                                         <div class="image"><img src="../assets/images/header/Hall_of_Fame.png" alt="Course image"></div>
-                                            <a href="/Achievements/hall-of-fame">
-                                                <span>Hall Of Fame</span>
+                                        <div class="nav-category-item">
+                                            <div class="thumbnail">
+                                                <div class="image"><img src="../assets/images/header/Hall_of_Fame.png" alt="Course image"></div>
+                                                <a href="/Achievements/hall-of-fame">
+                                                    <span>Hall Of Fame</span>
                                                     <i class="feather-chevron-right"></i>
-                                            </a>
+                                                </a>
+                                            </div>
                                         </div>
-                                    </div>                                        
-                                 </ul>
+                                    </ul>
                                 </li>
-                                
+
                                 <li class="has-dropdown has-menu-child-item">
                                     <a href="#">Beyond Classroom
                                         <i class="feather-chevron-down"></i>
                                     </a>
                                     <ul class="submenu">
                                         <li class="has-dropdown"><a href="/Beyond-Classroom/value_education_program">Value Education Program</a>
-                                        </li><li class="has-dropdown"><a href="/Beyond-Classroom/gender_sensitivity_program">Gender Sensitivity Program</a>
-                                        </li><li class="has-dropdown"><a href="/Beyond-Classroom/student_wellness_program">Student Wellness Program</a>
-                                        </li><li class="has-dropdown"><a href="/Beyond-Classroom/student_counsellor">Student Counsellor</a>
-                                        </li><li class="has-dropdown"><a href="/Beyond-Classroom/career_counsellor">Career Counsellor</a>
-                                        </li><li class="has-dropdown"><a href="/Beyond-Classroom/personality_development_program">Personality Development Program</a>
-                                        </li><li class="has-dropdown"><a href="/Beyond-Classroom/Alumni">Alumni</a>
-                                        </li><li class="has-dropdown"><a href="/Beyond-Classroom/IDS">IDS</a>
-                                        </li><li class="has-dropdown"><a href="/Beyond-Classroom/Army">Army</a>
-                                        </li><li class="has-dropdown"><a href="/Beyond-Classroom/Air_wing">Air Wing</a>
+                                        </li>
+                                        <li class="has-dropdown"><a href="/Beyond-Classroom/gender_sensitivity_program">Gender Sensitivity Program</a>
+                                        </li>
+                                        <li class="has-dropdown"><a href="/Beyond-Classroom/student_wellness_program">Student Wellness Program</a>
+                                        </li>
+                                        <li class="has-dropdown"><a href="/Beyond-Classroom/student_counsellor">Student Counsellor</a>
+                                        </li>
+                                        <li class="has-dropdown"><a href="/Beyond-Classroom/career_counsellor">Career Counsellor</a>
+                                        </li>
+                                        <li class="has-dropdown"><a href="/Beyond-Classroom/personality_development_program">Personality Development Program</a>
+                                        </li>
+                                        <li class="has-dropdown"><a href="/Beyond-Classroom/Alumni">Alumni</a>
+                                        </li>
+                                        <li class="has-dropdown"><a href="/Beyond-Classroom/IDS">IDS</a>
+                                        </li>
+                                        <li class="has-dropdown"><a href="/Beyond-Classroom/Army">Army</a>
+                                        </li>
+                                        <li class="has-dropdown"><a href="/Beyond-Classroom/Air_wing">Air Wing</a>
                                     </ul>
                                 </li>
 
@@ -282,22 +318,22 @@
                                         </li>
 
                                         <div class="row">
-                                    <div class="col-lg-12">
-                                        <div class="btn-wrapper">
-                                            <a class="rbt-btn btn-gradient hover-icon-reverse square btn-xl w-100 text-center mt--30 hover-transform-none" href="https://wa.me/6363853388?text=Need%20Help" style="padding-left:0px;">
-                                                <span class="icon-reverse-wrapper">
-                                        <span class="btn-text">Whats App Us</span>
-                                                <span class="btn-icon"><i class="feather-arrow-right"></i></span>
-                                                <span class="btn-icon"><i class="feather-arrow-right"></i></span>
-                                                </span>
-                                            </a>
+                                            <div class="col-lg-12">
+                                                <div class="btn-wrapper">
+                                                    <a class="rbt-btn btn-gradient hover-icon-reverse square btn-xl w-100 text-center mt--30 hover-transform-none" href="https://wa.me/6363853388?text=Need%20Help" style="padding-left:0px;">
+                                                        <span class="icon-reverse-wrapper">
+                                                            <span class="btn-text">Whats App Us</span>
+                                                            <span class="btn-icon"><i class="feather-arrow-right"></i></span>
+                                                            <span class="btn-icon"><i class="feather-arrow-right"></i></span>
+                                                        </span>
+                                                    </a>
+                                                </div>
+                                            </div>
                                         </div>
-                                    </div>
-                                </div>
                                     </ul>
-                                    
+
                                 </li>
-                                 
+
                             </ul>
                         </nav>
                     </div>
@@ -305,7 +341,7 @@
                     <div class="header-right">
 
                         <!-- Navbar Icons -->
-                        
+
 
                         <div class="rbt-btn-wrapper d-none d-xl-block">
                             <a class="rbt-btn rbt-marquee-btn marquee-auto btn-border-gradient radius-round btn-sm hover-transform-none" href="#">
@@ -327,7 +363,7 @@
                 </div>
             </div>
         </div>
-      
+
         <a class="rbt-close_side_menu" href="javascript:void(0);"></a>
     </header>
     <!-- Mobile Menu Section -->
@@ -344,7 +380,7 @@
                         <button class="close-button rbt-round-btn"><i class="feather-x"></i></button>
                     </div>
                 </div>
-              
+
                 <ul class="navbar-top-left rbt-information-list justify-content-start">
                     <li>
                         <a href="mailto:info@ajps.edu.in"><i class="feather-mail"></i>info@ajps.edu.in</a>
@@ -357,169 +393,177 @@
 
             <nav class="mainmenu-nav">
                 <ul class="mainmenu">
-                    <li >
+                    <li>
                         <a href="/">Home <i class="feather-chevron-down"></i></a>
-                       
+
                         <!-- End Mega Menu  -->
                     </li>
 
-                   
-                    <li class="has-dropdown has-menu-child-item">
-                                    <a href="#">About Us
-                                        <i class="feather-chevron-down"></i>
-                                    </a>
-                                    <ul class="submenu">
-                                        <li><a href="/aboutus/overview">Over view</a></li>
-                                        <li><a href="/aboutus/chairman_message">Chairman message</a></li>
-                                        <li><a href="/aboutus/principal_message">Principal message</a></li>
-                                        <li><a href="/aboutus/management_committee">School Management Committee</a></li>
-                                        <li><a href="/aboutus/child_safety_committee">Child Protection Council</a></li>
-                                        <li><a href="/aboutus/staff_profile">Staff profile</a></li>
-                                        <li><a href="/aboutus/staff_training">Staff training</a></li>
-                                        <li><a href="/aboutus/parent_teacher_association">Parent teacher association</a></li>
-                                        <li><a href="/aboutus/testimonial">Testimonials</a></li>
-                                        <li><a href="/aboutus/mandatory_disclosure">Mandatory disclosure</a></li>
-                                    </ul>
-                                </li>
-
-                                <li class="has-dropdown has-menu-child-item">
-                                    <a href="#">Academics
-                                        <i class="feather-chevron-down"></i>
-                                    </a>
-                                    <ul class="submenu">
-                                        <li><a href="/Academics/prospectus">Prospectus</a>
-                                        </li><li class="has-dropdown"><a href="#">Programmes</a>
-                                            <ul class="submenu">
-                                                <li><a href="/Academics/foundation-stage">Foundation Stage</a></li>
-                                                <li><a href="/Academics/primary-stage">Primary Stage</a></li>
-                                                <li><a href="/Academics/middle-stage">Middle Stage</a></li>
-                                                <li><a href="/Academics/secondary-stage">Secondary Stage</a></li>
-                                            </ul>
-                                        </li><li><a href="/Academics/pedagogies">Pedagogies</a>
-                                        </li><li><a href="/Academics/board-results">Board results</a>
-                                        </li><li><a href="/Academics/Textbookdeclaration.pdf">TextBook Declaration</a>
-                                        </li><li><a href="/Academics/booklists">Book Lists</a>
-                                        <!-- </li><li><a href="/Academics/scholarship">Scholarship</a> -->
-                                        </li><li><a href="/Academics/cca">CCA</a>
-                                        </li><li><a href="/Academics/life-skills">Life Skills</a></ul>
-                                </li>
-
-                   
-                                <li class="has-dropdown has-menu-child-item">
-                                    <a href="#">Admissions
-                                        <i class="feather-chevron-down"></i>
-                                    </a>
-                                    <ul class="submenu">
-                                        <li><a href="/Admissions/How_To_Apply">How To Apply</a></li>
-                                        <li><a href="/Admissions/Age_criteria">Age Criteria</a></li>
-                                        <li><a href="/Admissions/Application_Form">Application Form</a></li>
-                                        <li><a href="/Admissions/Highlights_Of_Nep_2020">Highlights Of Nep 2020</a></li>
-                                    </ul>
-                                </li>
 
                     <li class="has-dropdown has-menu-child-item">
-                                    <a href="#">Infrastructure
-                                        <i class="feather-chevron-down"></i>
-                                    </a>
-                                    <ul class="submenu">
-                                        <li><a href="#">Gallery</a></li>
-                                        <li><a href="/infrastructure/Indoor_Facility">Indoor Facility</a></li>
-                                        <li><a href="/infrastructure/Outdoor_Facility">Outdoor Facility</a></li>
-                                        <li><a href="/infrastructure/Health_Care">Health Care</a></li>
-                                        <li><a href="/infrastructure/Resource_Center">Resource Centre</a></li>
-                                        <li><a href="/infrastructure/ATL">ATL</a></li>
-                                        <li><a href="/infrastructure/Robotics">Robotics</a></li>
-                                        <li><a href="/infrastructure/Seminar_Hall">Thermoregulated Seminar Hall</a></li>
-                                        <li><a href="/infrastructure/Laboratories">Laboratories</a></li>
-                                    </ul>
-                                </li>
+                        <a href="#">About Us
+                            <i class="feather-chevron-down"></i>
+                        </a>
+                        <ul class="submenu">
+                            <li><a href="/aboutus/overview">Over view</a></li>
+                            <li><a href="/aboutus/chairman_message">Chairman message</a></li>
+                            <li><a href="/aboutus/principal_message">Principal message</a></li>
+                            <li><a href="/aboutus/management_committee">School Management Committee</a></li>
+                            <li><a href="/aboutus/child_safety_committee">Child Protection Council</a></li>
+                            <li><a href="/aboutus/staff_profile">Staff profile</a></li>
+                            <li><a href="/aboutus/staff_training">Staff training</a></li>
+                            <li><a href="/aboutus/parent_teacher_association">Parent teacher association</a></li>
+                            <li><a href="/aboutus/testimonial">Testimonials</a></li>
+                            <li><a href="/aboutus/mandatory_disclosure">Mandatory disclosure</a></li>
+                        </ul>
+                    </li>
 
-                                <li class="has-dropdown has-menu-child-item">
-                                    <a href="#">Achievements
-                                        <i class="feather-chevron-down"></i>
-                                    </a>
-                                    
-                                    <ul class="submenu" style="padding-top: 0px;padding-bottom: 0px;background-color: transparent;">
-                                     <div class="nav-category-item">
-                                      <div class="thumbnail">
-                                         <div class="image"><img src="../assets/images/header/Awards.png" alt="Course image"></div>
-                                            <a href="/Achievements/awards">
-                                                <span>Awards</span>
-                                                    <i class="feather-chevron-right"></i>
-                                            </a>
-                                        </div>
-                                     </div>
-                                    <div class="nav-category-item">
-                                     <div class="thumbnail">
-                                         <div class="image"><img src="../assets/images/header/Scholastic.png" alt="Course image"></div>
-                                            <a href="/Achievements/scholastic-achievements">
-                                                <span>Scholastic<br>Achievements</span>
-                                                    <i class="feather-chevron-right"></i>
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="nav-category-item">
-                                     <div class="thumbnail">
-                                         <div class="image"><img src="../assets/images/header/Co_Scholastic.png" alt="Course image"></div>
-                                            <a href="/Achievements/csa">
-                                                <span>Co Scholastic<br>Achievements</span>
-                                                    <i class="feather-chevron-right"></i>
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="nav-category-item">
-                                     <div class="thumbnail">
-                                         <div class="image"><img src="../assets/images/header/Hall_of_Fame.png" alt="Course image"></div>
-                                            <a href="/Achievements/hall-of-fame">
-                                                <span>Hall Of Fame</span>
-                                                    <i class="feather-chevron-right"></i>
-                                            </a>
-                                        </div>
-                                    </div>                                        
-                                 </ul>
-                                </li>
+                    <li class="has-dropdown has-menu-child-item">
+                        <a href="#">Academics
+                            <i class="feather-chevron-down"></i>
+                        </a>
+                        <ul class="submenu">
+                            <li><a href="/Academics/prospectus">Prospectus</a>
+                            </li>
+                            <li class="has-dropdown"><a href="#">Programmes</a>
+                                <ul class="submenu">
+                                    <li><a href="/Academics/foundation-stage">Foundation Stage</a></li>
+                                    <li><a href="/Academics/primary-stage">Primary Stage</a></li>
+                                    <li><a href="/Academics/middle-stage">Middle Stage</a></li>
+                                    <li><a href="/Academics/secondary-stage">Secondary Stage</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="/Academics/pedagogies">Pedagogies</a>
+                            </li>
+                            <li><a href="/Academics/board-results">Board results</a>
+                            </li>
+                            <li><a href="/Academics/Textbookdeclaration.pdf">TextBook Declaration</a>
+                            </li>
+                            <li><a href="/Academics/booklists">Book Lists</a>
+                                <!-- </li><li><a href="/Academics/scholarship">Scholarship</a> -->
+                            </li>
+                            <li><a href="/Academics/cca">CCA</a>
+                            </li>
+                            <li><a href="/Academics/life-skills">Life Skills</a>
+                        </ul>
+                    </li>
 
-                                <li class="has-dropdown has-menu-child-item">
-                                    <a href="#">Beyond Classroom
-                                        <i class="feather-chevron-down"></i>
-                                    </a>
-                                    <ul class="submenu">
-                                        <li><a href="/Beyond-Classroom/value_education_program">Value Education Program</a></li>
-                                        <li><a href="/Beyond-Classroom/gender_sensitivity_program">Gender Sensitivity Program</a></li>
-                                        <li><a href="/Beyond-Classroom/student_wellness_program">Student Wellness Program</a></li>
-                                        <li><a href="/Beyond-Classroom/student_counsellor">Student Counsellor</a></li>
-                                        <li><a href="/Beyond-Classroom/career_counsellor">Career Counsellor</a></li>
-                                        <li><a href="/Beyond-Classroom/personality_development_program">Personality Development Program</a></li>
-                                        <li><a href="/Beyond-Classroom/Alumni">Alumni</a></li>
-                                        <li><a href="/Beyond-Classroom/IDS">IDS</a></li>
-                                        <li><a href="/Beyond-Classroom/Army">Army</a></li>
-                                        <li><a href="/Beyond-Classroom/Air_wing">Air Wing</a></li>
-                                    </ul>
-                                </li>
-                                <li class="has-dropdown has-menu-child-item">
-                                    <a href="#">Contact Us
-                                        <i class="feather-chevron-down"></i>
-                                    </a>
-                                    <ul class="submenu" style="padding-bottom:0px;">
-                                        <li class="has-dropdown"><a href="/Contact-us/Contact-us">Contact Us &nbsp; <span class="rbt-badge-card">Now</span></a>
-                                        </li>
 
-                                        <div class="row">
-                                    <div class="col-lg-12">
-                                        <div class="btn-wrapper">
-                                            <a class="rbt-btn btn-gradient hover-icon-reverse square btn-xl w-100 text-center mt--30 hover-transform-none" href="https://wa.me/6363853388?text=Need%20Help" style="padding-left:0px;">
-                                                <span class="icon-reverse-wrapper">
-                                        <span class="btn-text">Whats App Us</span>
+                    <li class="has-dropdown has-menu-child-item">
+                        <a href="#">Admissions
+                            <i class="feather-chevron-down"></i>
+                        </a>
+                        <ul class="submenu">
+                            <li><a href="/Admissions/How_To_Apply">How To Apply</a></li>
+                            <li><a href="/Admissions/Age_criteria">Age Criteria</a></li>
+                            <li><a href="/Admissions/Application_Form">Application Form</a></li>
+                            <li><a href="/Admissions/Highlights_Of_Nep_2020">Highlights Of Nep 2020</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="has-dropdown has-menu-child-item">
+                        <a href="#">Infrastructure
+                            <i class="feather-chevron-down"></i>
+                        </a>
+                        <ul class="submenu">
+                            <li><a href="#">Gallery</a></li>
+                            <li><a href="/infrastructure/Indoor_Facility">Indoor Facility</a></li>
+                            <li><a href="/infrastructure/Outdoor_Facility">Outdoor Facility</a></li>
+                            <li><a href="/infrastructure/Health_Care">Health Care</a></li>
+                            <li><a href="/infrastructure/Resource_Center">Resource Centre</a></li>
+                            <li><a href="/infrastructure/ATL">ATL</a></li>
+                            <li><a href="/infrastructure/Robotics">Robotics</a></li>
+                            <li><a href="/infrastructure/Seminar_Hall">Thermoregulated Seminar Hall</a></li>
+                            <li><a href="/infrastructure/Laboratories">Laboratories</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="has-dropdown has-menu-child-item">
+                        <a href="#">Achievements
+                            <i class="feather-chevron-down"></i>
+                        </a>
+
+                        <ul class="submenu" style="padding-top: 0px;padding-bottom: 0px;background-color: transparent;">
+                            <div class="nav-category-item">
+                                <div class="thumbnail">
+                                    <div class="image"><img src="../assets/images/header/Awards.png" alt="Course image"></div>
+                                    <a href="/Achievements/awards">
+                                        <span>Awards</span>
+                                        <i class="feather-chevron-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="nav-category-item">
+                                <div class="thumbnail">
+                                    <div class="image"><img src="../assets/images/header/Scholastic.png" alt="Course image"></div>
+                                    <a href="/Achievements/scholastic-achievements">
+                                        <span>Scholastic<br>Achievements</span>
+                                        <i class="feather-chevron-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="nav-category-item">
+                                <div class="thumbnail">
+                                    <div class="image"><img src="../assets/images/header/Co_Scholastic.png" alt="Course image"></div>
+                                    <a href="/Achievements/csa">
+                                        <span>Co Scholastic<br>Achievements</span>
+                                        <i class="feather-chevron-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="nav-category-item">
+                                <div class="thumbnail">
+                                    <div class="image"><img src="../assets/images/header/Hall_of_Fame.png" alt="Course image"></div>
+                                    <a href="/Achievements/hall-of-fame">
+                                        <span>Hall Of Fame</span>
+                                        <i class="feather-chevron-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </ul>
+                    </li>
+
+                    <li class="has-dropdown has-menu-child-item">
+                        <a href="#">Beyond Classroom
+                            <i class="feather-chevron-down"></i>
+                        </a>
+                        <ul class="submenu">
+                            <li><a href="/Beyond-Classroom/value_education_program">Value Education Program</a></li>
+                            <li><a href="/Beyond-Classroom/gender_sensitivity_program">Gender Sensitivity Program</a></li>
+                            <li><a href="/Beyond-Classroom/student_wellness_program">Student Wellness Program</a></li>
+                            <li><a href="/Beyond-Classroom/student_counsellor">Student Counsellor</a></li>
+                            <li><a href="/Beyond-Classroom/career_counsellor">Career Counsellor</a></li>
+                            <li><a href="/Beyond-Classroom/personality_development_program">Personality Development Program</a></li>
+                            <li><a href="/Beyond-Classroom/Alumni">Alumni</a></li>
+                            <li><a href="/Beyond-Classroom/IDS">IDS</a></li>
+                            <li><a href="/Beyond-Classroom/Army">Army</a></li>
+                            <li><a href="/Beyond-Classroom/Air_wing">Air Wing</a></li>
+                        </ul>
+                    </li>
+                    <li class="has-dropdown has-menu-child-item">
+                        <a href="#">Contact Us
+                            <i class="feather-chevron-down"></i>
+                        </a>
+                        <ul class="submenu" style="padding-bottom:0px;">
+                            <li class="has-dropdown"><a href="/Contact-us/Contact-us">Contact Us &nbsp; <span class="rbt-badge-card">Now</span></a>
+                            </li>
+
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <div class="btn-wrapper">
+                                        <a class="rbt-btn btn-gradient hover-icon-reverse square btn-xl w-100 text-center mt--30 hover-transform-none" href="https://wa.me/6363853388?text=Need%20Help" style="padding-left:0px;">
+                                            <span class="icon-reverse-wrapper">
+                                                <span class="btn-text">Whats App Us</span>
                                                 <span class="btn-icon"><i class="feather-arrow-right"></i></span>
                                                 <span class="btn-icon"><i class="feather-arrow-right"></i></span>
-                                                </span>
-                                            </a>
-                                        </div>
+                                            </span>
+                                        </a>
                                     </div>
                                 </div>
-                                    </ul>
-                                    
-                                </li>
+                            </div>
+                        </ul>
+
+                    </li>
 
                 </ul>
             </nav>
@@ -556,7 +600,7 @@
 
         </div>
     </div>
-  
+
 
     <!-- JS
 ============================================ -->
@@ -588,7 +632,7 @@
     <script src="../assets/js/vendor/paralax.min.js"></script>
     <script src="../assets/js/vendor/countdown.js"></script>
     <script src="../assets/js/vendor/plyr.js"></script>
-    
+
 </body>
 
 </html>

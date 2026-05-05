@@ -1,4 +1,7 @@
-<?php include 'common/header.php'?>
+<?php 
+// include 'common/header.php'
+include 'header.php'
+?>
 
     <div class="rbt-banner-6 variation-02 bg_image bg_image--7 header-transperent-spacer" data-black-overlay="2">
         <div class="wrapper w-100">
@@ -285,4 +288,7 @@
     </div>
     <!-- End Call To Action  -->
 
-    <?php include 'common/footer.php'?>
+    <?php 
+    // include 'common/footer.php'
+    include 'footer.php'
+    ?>

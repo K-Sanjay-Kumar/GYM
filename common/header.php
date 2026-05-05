@@ -45,7 +45,7 @@
                         <div class="header-info">
                             <div class="logo">
                                 <a href="/index.php">
-                                    <img src="/assets/images/logo.png" alt="Gym Logo">
+                                    <img src="/assets/images/nav-logo.png" alt="Gym Logo">
                                 </a>
                             </div>
                         </div>
@@ -193,7 +193,7 @@
                 <div class="content">
                     <div class="logo">
                         <a href="/">
-                            <img src="/assets/images/logo.png" alt="Gym Logo">
+                            <img src="/assets/images/nav-logo.png" alt="Gym Logo">
                         </a>
                     </div>
                     <div class="rbt-btn-close">

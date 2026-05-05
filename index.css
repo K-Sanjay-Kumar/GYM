@@ -1,0 +1,15 @@
+.team-style-default .inner .thumbnail img {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+}
+
+.footer-style-1 .footer-top {
+    padding-bottom: 0px;
+}
+
+.thumbnail {
+    display: flex;
+    align-items: center;
+    height: 500px;
+}

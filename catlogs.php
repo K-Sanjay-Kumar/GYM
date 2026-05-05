@@ -59,7 +59,9 @@
                     <div class="inner text-center">
                         <!-- GYM Logo -->
                         <div class="logo-wrapper">
-                            <img src="assets/images/logo.png" alt="GYM Logo" class="gym-logo" style="height: 250px;">
+                            <a href="index.html">
+                                <img src="assets/images/logo.png" alt="GYM Logo" class="gym-logo" style="height: 250px;">
+                            </a>
                         </div>
                         <h2 class="title theme-gradient rbt-display-1">Domestic catalogue</h2>
                     </div>
@@ -289,26 +291,6 @@
         </div>
     </footer>
     <!-- End Footer aera -->
-
-    <div class="rbt-separator-mid">
-        <div class="container">
-            <hr class="rbt-separator m-0">
-        </div>
-    </div>
-    <!-- Start Copyright Area  -->
-    <div class="copyright-area copyright-style-1 ptb--20">
-        <div class="container">
-            <div class="row align-items-center">
-                <p class="rbt-link-hover text-center">Copyright © 2023 <a href="https://themeforest.net/user/rbt-themes">Rainbow-Themes.</a> All Rights Reserved</p>
-            </div>
-        </div>
-    </div>
-    <!-- End Copyright Area  -->
-    <div class="rbt-progress-parent">
-        <svg class="rbt-back-circle svg-inner" width="100%" height="100%" viewBox="-1 -1 102 102">
-            <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />
-        </svg>
-    </div>
 
     <!-- JS
 ============================================ -->

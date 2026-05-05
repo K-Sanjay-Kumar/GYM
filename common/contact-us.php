@@ -10,27 +10,27 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="/GYM/assets/images/logo.png">
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/images/logo.png">
 
     <!-- CSS
 	============================================ -->
-    <link rel="stylesheet" href="/GYM/assets/css/vendor/bootstrap.min.css">
-    <link rel="stylesheet" href="/GYM/assets/css/vendor/slick.css">
-    <link rel="stylesheet" href="/GYM/assets/css/vendor/slick-theme.css">
-    <link rel="stylesheet" href="/GYM/assets/css/plugins/sal.css">
-    <link rel="stylesheet" href="/GYM/assets/css/plugins/feather.css">
-    <link rel="stylesheet" href="/GYM/assets/css/plugins/fontawesome.min.css">
-    <link rel="stylesheet" href="/GYM/assets/css/plugins/euclid-circulara.css">
-    <link rel="stylesheet" href="/GYM/assets/css/plugins/swiper.css">
-    <link rel="stylesheet" href="/GYM/assets/css/plugins/magnify.css">
-    <link rel="stylesheet" href="/GYM/assets/css/plugins/odometer.css">
-    <link rel="stylesheet" href="/GYM/assets/css/plugins/animation.css">
-    <link rel="stylesheet" href="/GYM/assets/css/plugins/bootstrap-select.min.css">
-    <link rel="stylesheet" href="/GYM/assets/css/plugins/jquery-ui.css">
-    <link rel="stylesheet" href="/GYM/assets/css/plugins/magnigy-popup.min.css">
-    <link rel="stylesheet" href="/GYM/assets/css/plugins/plyr.css">
-    <link rel="stylesheet" href="/GYM/assets/css/style.css">
-    <link rel="stylesheet" href="/GYM/index.css">
+    <link rel="stylesheet" href="/assets/css/vendor/bootstrap.min.css">
+    <link rel="stylesheet" href="/assets/css/vendor/slick.css">
+    <link rel="stylesheet" href="/assets/css/vendor/slick-theme.css">
+    <link rel="stylesheet" href="/assets/css/plugins/sal.css">
+    <link rel="stylesheet" href="/assets/css/plugins/feather.css">
+    <link rel="stylesheet" href="/assets/css/plugins/fontawesome.min.css">
+    <link rel="stylesheet" href="/assets/css/plugins/euclid-circulara.css">
+    <link rel="stylesheet" href="/assets/css/plugins/swiper.css">
+    <link rel="stylesheet" href="/assets/css/plugins/magnify.css">
+    <link rel="stylesheet" href="/assets/css/plugins/odometer.css">
+    <link rel="stylesheet" href="/assets/css/plugins/animation.css">
+    <link rel="stylesheet" href="/assets/css/plugins/bootstrap-select.min.css">
+    <link rel="stylesheet" href="/assets/css/plugins/jquery-ui.css">
+    <link rel="stylesheet" href="/assets/css/plugins/magnigy-popup.min.css">
+    <link rel="stylesheet" href="/assets/css/plugins/plyr.css">
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="stylesheet" href="/index.css">
 </head>
 
 <body class="rbt-header-sticky">
@@ -44,8 +44,8 @@
                     <div class="header-left rbt-header-content">
                         <div class="header-info">
                             <div class="logo">
-                                <a href="/GYM/index.php">
-                                    <img src="/GYM/assets/images/logo.png" alt="Gym Logo">
+                                <a href="/index.php">
+                                    <img src="/assets/images/logo.png" alt="Gym Logo">
                                 </a>
                             </div>
                         </div>
@@ -55,7 +55,7 @@
                         <nav class="mainmenu-nav">
                             <ul class="mainmenu">
                                 <li>
-                                    <a href="/GYM/index.php">ABOUT US</a>
+                                    <a href="/index.php">ABOUT US</a>
                                 </li>
 
                                 <!-- Start Cardio -->
@@ -64,15 +64,15 @@
                                         <i class="feather-chevron-down"></i>
                                     </a>
                                     <ul class="submenu">
-                                        <li><a href="/GYM/cardio/treadmills.php">Treadmills</a></li>
-                                        <li><a href="/GYM/cardio/elliptical.php">Ellipticals</a></li>
-                                        <li><a href="/GYM/cardio/upright-bikes.php">Upright Bikes</a></li>
-                                        <li><a href="/GYM/cardio/recumbent-bikes.php">Recumbent Bikes</a></li>
-                                        <li><a href="/GYM/cardio/air-rower.php">Air Rower</a></li>
-                                        <li><a href="/GYM/cardio/spinning-bike.php">Spinning Bike</a></li>
-                                        <li><a href="/GYM/cardio/air-bike.php">Air Bike</a></li>
-                                        <li><a href="/GYM/cardio/stepper-machine.php">Stepper Trainer</a></li>
-                                        <li><a href="/GYM/cardio/step-up-climber.php">Step-Up Climber</a></li>
+                                        <li><a href="/cardio/treadmills.php">Treadmills</a></li>
+                                        <li><a href="/cardio/elliptical.php">Ellipticals</a></li>
+                                        <li><a href="/cardio/upright-bikes.php">Upright Bikes</a></li>
+                                        <li><a href="/cardio/recumbent-bikes.php">Recumbent Bikes</a></li>
+                                        <li><a href="/cardio/air-rower.php">Air Rower</a></li>
+                                        <li><a href="/cardio/spinning-bike.php">Spinning Bike</a></li>
+                                        <li><a href="/cardio/air-bike.php">Air Bike</a></li>
+                                        <li><a href="/cardio/stepper-machine.php">Stepper Trainer</a></li>
+                                        <li><a href="/cardio/step-up-climber.php">Step-Up Climber</a></li>
                                     </ul>
                                 </li>
                                 <!-- End Cardio -->
@@ -100,11 +100,11 @@
                                         <i class="feather-chevron-down"></i>
                                     </a>
                                     <ul class="submenu">
-                                        <li><a href="/GYM/jx-fit/multi-gyms.php">Multi Gyms</a></li>
-                                        <li><a href="/GYM/jx-fit/multi-jungles.php">Multi Jungles</a></li>
-                                        <li><a href="/GYM/jx-fit/stretching.php">Stretching</a></li>
-                                        <li><a href="/GYM/jx-fit/rigs-and-racks.php">Rigs and Racks</a></li>
-                                        <li><a href="/GYM/jx-fit/functional-training.php">Functional Training</a></li>
+                                        <li><a href="/jx-fit/multi-gyms.php">Multi Gyms</a></li>
+                                        <li><a href="/jx-fit/multi-jungles.php">Multi Jungles</a></li>
+                                        <li><a href="/jx-fit/stretching.php">Stretching</a></li>
+                                        <li><a href="/jx-fit/rigs-and-racks.php">Rigs and Racks</a></li>
+                                        <li><a href="/jx-fit/functional-training.php">Functional Training</a></li>
                                     </ul>
                                 </li>
                                 <!-- End JX-FIT -->
@@ -115,11 +115,11 @@
                                         <i class="feather-chevron-down"></i>
                                     </a>
                                     <ul class="submenu">
-                                        <li><a href="/GYM/home-range/personal-training.php">Personal Training</a></li>
-                                        <li><a href="/GYM/home-range/multi-gyms.php">Multi Gyms</a></li>
-                                        <li><a href="/GYM/home-range/benches-and-racks.php">Benches and Racks</a></li>
-                                        <li><a href="/GYM/home-range/cardio.php">Cardio</a></li>
-                                        <li><a href="/GYM/home-range/attachments.php">Attachments</a></li>
+                                        <li><a href="/home-range/personal-training.php">Personal Training</a></li>
+                                        <li><a href="/home-range/multi-gyms.php">Multi Gyms</a></li>
+                                        <li><a href="/home-range/benches-and-racks.php">Benches and Racks</a></li>
+                                        <li><a href="/home-range/cardio.php">Cardio</a></li>
+                                        <li><a href="/home-range/attachments.php">Attachments</a></li>
                                     </ul>
                                 </li>
                                 <!-- End HOME RANGE -->
@@ -155,7 +155,7 @@
                                 <!-- End INVESTORS RELATIONS -->
 
                                 <li>
-                                    <a href="/GYM/common/contact-us.php">CONTACT US</a>
+                                    <a href="/common/contact-us.php">CONTACT US</a>
                                 </li>
 
                                 <li>
@@ -191,7 +191,7 @@
                 <div class="content">
                     <div class="logo">
                         <a href="/">
-                            <img src="/GYM/assets/images/logo.png" alt="Gym Logo">
+                            <img src="/assets/images/logo.png" alt="Gym Logo">
                         </a>
                     </div>
                     <div class="rbt-btn-close">

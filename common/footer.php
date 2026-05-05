@@ -36,7 +36,7 @@
                             <!-- RIGHT SIDE - LOGO -->
                             <div class="col-lg-4 col-md-12 text-center text-lg-start mb_md--20 mb_sm--20 ptb--10 ptb_md--10 ptb_sm--10">
                                 <div class="footer-logo">
-                                    <img src="assets/images/logo.png" alt="Company Logo" class="footer-logo-img">
+                                    <img src="/assets/images/logo.png" alt="Company Logo" class="footer-logo-img">
                                 </div>
                             </div>
 
